@@ -1,4 +1,4 @@
-package com.dev.superior.worker;
+package com.devsuperior.worker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
